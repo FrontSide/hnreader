@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/ba5c7736f364c04b562c/maintainability)](https://codeclimate.com/github/Bunchhieng/hnreader/maintainability)
 ![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-Open multiple news feed with your favorite browser using command line.
+Open multiple news feeds with your favorite browser using command line.
 
 #### Why?
 
